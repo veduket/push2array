@@ -1,0 +1,22 @@
+{
+  "name": "push2array",
+  "version": "1.0.0",
+  "description": "Push Objectified(JSON, String) to a given array",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/veduket/push2array.git"
+  },
+  "keywords": [
+    "push2array"
+  ],
+  "author": "Yared Getachew <veduket@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/veduket/push2array/issues"
+  },
+  "homepage": "https://github.com/veduket/push2array#readme"
+}
