@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "Push Objectified(JSON, String) to a given array",
   "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "scripts": {
     "test": "test"
   },
@@ -18,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/veduket/push2array/issues"
   },
-  "homepage": "https://github.com/veduket/push2array#readme"
+  "homepage": "https://github.com/veduket/push2array#readme",
+  "dependencies": {}
 }
